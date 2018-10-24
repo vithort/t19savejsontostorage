@@ -1,0 +1,7 @@
+{
+  "name": "t19savejsontostorage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
